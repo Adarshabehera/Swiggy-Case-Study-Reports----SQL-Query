@@ -1,0 +1,17 @@
+Swiggy Case Study :-
+
+1) Find Customers who have never orederd ?
+
+2) What is the Average price/Dish from Foods ?
+
+3) Find Top restaurants in terms of no of Orders for a given month ?
+
+4) Restaurants with monthly sales > x (x can be any deferred range of           values?
+
+5)Show all orders with order details  for a particular Customers in a particular date range ?
+
+6)Find restaurants with maximum repeated customers ?
+
+7)What is the Month over Month growth of Swiggy ?
+
+8)What is the Each customers favourite food in the dataset ?
